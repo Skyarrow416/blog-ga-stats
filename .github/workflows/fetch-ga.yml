@@ -3,7 +3,7 @@ name: Fetch GA Data
 on:
   schedule:
     # 每天 UTC 22:17（北京时间次日 06:17）运行；避开整点高峰
-    - cron: '17 22 * * *'
+    - cron: '12 15 * * *'
   workflow_dispatch: {}   # 支持在 Actions 页面手动触发
 
 permissions:
