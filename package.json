@@ -1,0 +1,12 @@
+{
+  "name": "blog-ga-stats",
+  "version": "1.0.0",
+  "private": true,
+  "description": "定时抓取 GA4 访问来源与热门文章，输出 ga-data.json 供博客首页读取",
+  "scripts": {
+    "fetch": "node fetch-ga.js"
+  },
+  "dependencies": {
+    "@google-analytics/data": "^4.7.0"
+  }
+}
