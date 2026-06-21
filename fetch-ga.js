@@ -39,11 +39,18 @@ async function fetchReferrers() {
     limit: TOP_N + 1, // 多取一个，便于过滤掉 (direct)
   });
   return (resp.rows || [])
-    .map((r) => ({
-      source: r.dimensionValues[0].value,
-      sessions: parseInt(r.metricValues[0].value, 10),
-    }))
-    .filter((r) => r.source && r.source !== '(direct)' && r.source !== '(not set)')
+    .map((r) => {
+      var src = r.dimensionValues[0].value;
+      // 低流量站点几乎全是直接访问/未归因，过滤掉会导致来源榜为空。
+      // 这里改为重命名而非丢弃，让它们正常出现在榜单里。
+      if (src === '(direct)') src = '直接访问';
+      else if (src === '(not set)' || !src) src = '未知来源';
+      return {
+        source: src,
+        sessions: parseInt(r.metricValues[0].value, 10),
+      };
+    })
+    .filter((r) => r.sessions > 0)
     .slice(0, TOP_N);
 }
 
