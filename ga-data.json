@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T23:42:48.670Z",
+  "updated": "2026-06-23T23:21:11.837Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 21
+      "sessions": 28
     },
     {
       "source": "未知来源",
@@ -12,17 +12,27 @@
     },
     {
       "source": "bing",
-      "sessions": 1
+      "sessions": 4
     },
     {
       "source": "cn.bing.com",
-      "sessions": 1
+      "sessions": 4
     }
   ],
   "posts": [
     {
+      "path": "/2026/02/01/从零开始的GOAD生活-上/",
+      "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
+      "views": 4
+    },
+    {
       "path": "/2026/02/04/Vulnyx-Hellman/",
       "title": "Vulnyx-Hellman - Skyarrow's blog",
+      "views": 3
+    },
+    {
+      "path": "/2026/05/21/windows提权-whoami-priv总结/",
+      "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
       "views": 3
     },
     {
@@ -31,8 +41,13 @@
       "views": 2
     },
     {
-      "path": "/2026/05/21/windows提权-whoami-priv总结/",
-      "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
+      "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
+      "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
+      "views": 2
+    },
+    {
+      "path": "/2026/04/11/OSCP-Challenge-4-OSCP-A/",
+      "title": "OSCP-Challenge-4-OSCP A - Skyarrow's blog",
       "views": 2
     },
     {
@@ -46,28 +61,13 @@
       "views": 1
     },
     {
-      "path": "/2026/02/01/从零开始的GOAD生活-上/",
-      "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
+      "path": "/2026/01/16/HackTheBox-Browsed/",
+      "title": "HackTheBox-Browsed - Skyarrow's blog",
       "views": 1
     },
     {
       "path": "/2026/02/02/从零开始的GOAD生活-中/",
       "title": "从零开始的GOAD生活(中) - Skyarrow's blog",
-      "views": 1
-    },
-    {
-      "path": "/2026/02/04/HackMyVM-Poppins/",
-      "title": "HackMyVM-Poppins - Skyarrow's blog",
-      "views": 1
-    },
-    {
-      "path": "/2026/02/18/ad攻击小记/",
-      "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 1
-    },
-    {
-      "path": "/2026/02/20/春秋云境-Brute4Road/",
-      "title": "春秋云境-Brute4Road - Skyarrow's blog",
       "views": 1
     }
   ]
