@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T23:13:55.995Z",
+  "updated": "2026-07-08T23:30:23.076Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 125
+      "sessions": 128
     },
     {
       "source": "cn.bing.com",
@@ -20,7 +20,11 @@
     },
     {
       "source": "未知来源",
-      "sessions": 5
+      "sessions": 6
+    },
+    {
+      "source": "(data not available)",
+      "sessions": 4
     },
     {
       "source": "maze-sec.com",
@@ -45,6 +49,11 @@
     {
       "path": "/page/4/",
       "title": "Skyarrow's blog",
+      "views": 10
+    },
+    {
+      "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
+      "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
       "views": 9
     },
     {
@@ -55,12 +64,12 @@
     {
       "path": "/2026/02/04/Vulnyx-Hellman/",
       "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 7
+      "views": 8
     },
     {
       "path": "/2026/03/27/HackMyVM-Rsscross/",
       "title": "HackMyVM-Rsscross - Skyarrow's blog",
-      "views": 7
+      "views": 8
     },
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
@@ -71,11 +80,6 @@
       "path": "/links/",
       "title": "Links - Skyarrow's blog",
       "views": 7
-    },
-    {
-      "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
-      "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
-      "views": 6
     },
     {
       "path": "/2026/01/09/一个能自动填写HMV用户名和密码的油猴脚本/",
