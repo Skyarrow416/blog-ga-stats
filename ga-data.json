@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T23:11:31.602Z",
+  "updated": "2026-07-16T23:09:53.134Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 177
+      "sessions": 184
     },
     {
       "source": "bing",
@@ -20,7 +20,7 @@
     },
     {
       "source": "未知来源",
-      "sessions": 6
+      "sessions": 12
     },
     {
       "source": "maze-sec.com",
@@ -39,12 +39,12 @@
     {
       "path": "/2026/02/01/从零开始的GOAD生活-上/",
       "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
-      "views": 16
+      "views": 17
     },
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 15
+      "views": 16
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
@@ -57,34 +57,34 @@
       "views": 12
     },
     {
+      "path": "/2026/02/04/HackMyVM-Poppins/",
+      "title": "HackMyVM-Poppins - Skyarrow's blog",
+      "views": 10
+    },
+    {
+      "path": "/2026/02/04/Vulnyx-Hellman/",
+      "title": "Vulnyx-Hellman - Skyarrow's blog",
+      "views": 10
+    },
+    {
       "path": "/2026/02/20/春秋云境-Brute4Road/",
       "title": "春秋云境-Brute4Road - Skyarrow's blog",
       "views": 10
     },
     {
-      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
-      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
-      "views": 9
-    },
-    {
-      "path": "/links/",
-      "title": "Links - Skyarrow's blog",
-      "views": 9
-    },
-    {
-      "path": "/2026/02/04/HackMyVM-Poppins/",
-      "title": "HackMyVM-Poppins - Skyarrow's blog",
-      "views": 8
-    },
-    {
-      "path": "/2026/02/04/Vulnyx-Hellman/",
-      "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 8
-    },
-    {
       "path": "/2026/03/27/HackMyVM-Rsscross/",
       "title": "HackMyVM-Rsscross - Skyarrow's blog",
-      "views": 8
+      "views": 10
+    },
+    {
+      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
+      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
+      "views": 10
+    },
+    {
+      "path": "/2026/04/24/HackMyVM-Type/",
+      "title": "HackMyVM-Type - Skyarrow's blog",
+      "views": 9
     }
   ]
 }
