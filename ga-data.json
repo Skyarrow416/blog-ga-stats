@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-08T00:24:09.715Z",
+  "updated": "2026-09-09T00:13:04.138Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 248
+      "sessions": 254
     },
     {
       "source": "hackmyvm.eu",
-      "sessions": 32
+      "sessions": 34
     },
     {
       "source": "bing",
-      "sessions": 23
+      "sessions": 24
     },
     {
       "source": "cn.bing.com",
-      "sessions": 18
+      "sessions": 16
     },
     {
       "source": "未知来源",
-      "sessions": 6
+      "sessions": 7
     },
     {
       "source": "duckduckgo",
@@ -67,7 +67,7 @@
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
       "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
-      "views": 13
+      "views": 14
     },
     {
       "path": "/page/2/",
@@ -90,8 +90,8 @@
       "views": 9
     },
     {
-      "path": "/2026/01/10/rbash逃逸相关总结/",
-      "title": "rbash逃逸相关总结 - Skyarrow's blog",
+      "path": "/2026/03/15/HackTheBox-Pirate/",
+      "title": "HackTheBox-Pirate - Skyarrow's blog",
       "views": 9
     }
   ]
