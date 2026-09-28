@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-27T00:34:38.586Z",
+  "updated": "2026-09-28T00:44:07.897Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 361
+      "sessions": 372
+    },
+    {
+      "source": "cn.bing.com",
+      "sessions": 24
     },
     {
       "source": "hackmyvm.eu",
       "sessions": 24
-    },
-    {
-      "source": "cn.bing.com",
-      "sessions": 23
     },
     {
       "source": "bing",
@@ -27,16 +27,12 @@
       "sessions": 7
     },
     {
-      "source": "(data not available)",
-      "sessions": 2
-    },
-    {
       "source": "google",
       "sessions": 2
     },
     {
       "source": "maze-sec.com",
-      "sessions": 1
+      "sessions": 2
     }
   ],
   "posts": [
@@ -86,8 +82,8 @@
       "views": 12
     },
     {
-      "path": "/2026/01/09/一个能自动填写HMV用户名和密码的油猴脚本/",
-      "title": "一个能自动填写HMV用户名和密码的油猴脚本 - Skyarrow's blog",
+      "path": "/2026/04/24/HackMyVM-Type/",
+      "title": "HackMyVM-Type - Skyarrow's blog",
       "views": 10
     }
   ]
