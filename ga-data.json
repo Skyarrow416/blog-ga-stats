@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-23T00:38:57.616Z",
+  "updated": "2026-10-24T00:40:08.730Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 447
+      "sessions": 435
     },
     {
       "source": "cn.bing.com",
-      "sessions": 25
+      "sessions": 26
     },
     {
       "source": "bing",
@@ -27,11 +27,11 @@
       "sessions": 3
     },
     {
-      "source": "未知来源",
-      "sessions": 2
+      "source": "ntp.msn.cn",
+      "sessions": 3
     },
     {
-      "source": "ntp.msn.cn",
+      "source": "未知来源",
       "sessions": 2
     },
     {
@@ -47,27 +47,27 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 29
+      "views": 28
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 24
+      "views": 23
     },
     {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 18
+      "views": 17
     },
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
       "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
-      "views": 16
+      "views": 15
     },
     {
       "path": "/2026/05/03/Mazesec-Safe/",
       "title": "Mazesec-Safe - Skyarrow's blog",
-      "views": 14
+      "views": 13
     },
     {
       "path": "/2026/02/04/Vulnyx-Hellman/",
@@ -75,14 +75,14 @@
       "views": 11
     },
     {
-      "path": "/links/",
-      "title": "Links - Skyarrow's blog",
-      "views": 11
-    },
-    {
       "path": "/2026/02/01/从零开始的GOAD生活-上/",
       "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
-      "views": 9
+      "views": 10
+    },
+    {
+      "path": "/links/",
+      "title": "Links - Skyarrow's blog",
+      "views": 10
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
@@ -90,9 +90,9 @@
       "views": 8
     },
     {
-      "path": "/2026/04/24/HackMyVM-Type/",
-      "title": "HackMyVM-Type - Skyarrow's blog",
-      "views": 8
+      "path": "/2025/06/12/HackMyVM-Nexus/",
+      "title": "HackMyVM-Nexus - Skyarrow's blog",
+      "views": 7
     }
   ]
 }
