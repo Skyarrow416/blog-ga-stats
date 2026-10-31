@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-30T01:57:02.201Z",
+  "updated": "2026-10-31T01:34:44.378Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 451
+      "sessions": 434
     },
     {
       "source": "bing",
-      "sessions": 31
+      "sessions": 27
     },
     {
       "source": "cn.bing.com",
-      "sessions": 27
+      "sessions": 26
     },
     {
       "source": "duckduckgo",
@@ -47,7 +47,7 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 30
+      "views": 29
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
@@ -62,7 +62,7 @@
     {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 17
+      "views": 13
     },
     {
       "path": "/2026/05/03/Mazesec-Safe/",
@@ -75,14 +75,14 @@
       "views": 11
     },
     {
-      "path": "/2026/02/01/从零开始的GOAD生活-上/",
-      "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
-      "views": 10
-    },
-    {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
       "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
       "views": 10
+    },
+    {
+      "path": "/2026/02/01/从零开始的GOAD生活-上/",
+      "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
+      "views": 9
     },
     {
       "path": "/links/",
