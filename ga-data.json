@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T02:18:21.080Z",
+  "updated": "2026-11-05T02:24:45.077Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 427
+      "sessions": 420
     },
     {
       "source": "bing",
@@ -47,26 +47,26 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 30
+      "views": 31
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 18
-    },
-    {
-      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
-      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
-      "views": 15
-    },
-    {
-      "path": "/2026/02/04/Vulnyx-Hellman/",
-      "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 13
+      "views": 17
     },
     {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
+      "views": 14
+    },
+    {
+      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
+      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
+      "views": 14
+    },
+    {
+      "path": "/2026/02/04/Vulnyx-Hellman/",
+      "title": "Vulnyx-Hellman - Skyarrow's blog",
       "views": 13
     },
     {
@@ -83,6 +83,11 @@
       "path": "/2026/02/01/从零开始的GOAD生活-上/",
       "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
       "views": 10
+    },
+    {
+      "path": "/2025/06/12/HackMyVM-Nexus/",
+      "title": "HackMyVM-Nexus - Skyarrow's blog",
+      "views": 8
     }
   ]
 }
