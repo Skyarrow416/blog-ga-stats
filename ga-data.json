@@ -1,26 +1,30 @@
 {
-  "updated": "2026-11-06T02:24:06.729Z",
+  "updated": "2026-11-07T01:54:27.855Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 417
+      "sessions": 412
     },
     {
       "source": "bing",
-      "sessions": 26
+      "sessions": 25
     },
     {
       "source": "cn.bing.com",
-      "sessions": 22
+      "sessions": 21
     },
     {
       "source": "duckduckgo",
-      "sessions": 7
+      "sessions": 8
     },
     {
       "source": "未知来源",
-      "sessions": 5
+      "sessions": 7
+    },
+    {
+      "source": "chatgpt.com",
+      "sessions": 4
     },
     {
       "source": "hyhforever.top",
@@ -37,22 +41,18 @@
     {
       "source": "yandex",
       "sessions": 2
-    },
-    {
-      "source": "bokedaquan.cc",
-      "sessions": 1
     }
   ],
   "posts": [
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 33
+      "views": 31
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 17
+      "views": 19
     },
     {
       "path": "/2026/02/18/ad攻击小记/",
@@ -70,23 +70,28 @@
       "views": 13
     },
     {
+      "path": "/2026/05/03/Mazesec-Safe/",
+      "title": "Mazesec-Safe - Skyarrow's blog",
+      "views": 13
+    },
+    {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
       "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
       "views": 12
     },
     {
-      "path": "/2026/05/03/Mazesec-Safe/",
-      "title": "Mazesec-Safe - Skyarrow's blog",
-      "views": 11
-    },
-    {
       "path": "/2026/02/01/从零开始的GOAD生活-上/",
       "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
-      "views": 10
+      "views": 9
     },
     {
       "path": "/2025/06/12/HackMyVM-Nexus/",
       "title": "HackMyVM-Nexus - Skyarrow's blog",
+      "views": 8
+    },
+    {
+      "path": "/2025/11/06/HackMyvm-soc1/",
+      "title": "HackMyvm-soc1 - Skyarrow's blog",
       "views": 8
     }
   ]
