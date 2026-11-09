@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T01:25:28.362Z",
+  "updated": "2026-11-09T01:43:00.737Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 400
+      "sessions": 397
     },
     {
       "source": "bing",
@@ -15,12 +15,12 @@
       "sessions": 21
     },
     {
-      "source": "未知来源",
-      "sessions": 8
+      "source": "duckduckgo",
+      "sessions": 10
     },
     {
-      "source": "duckduckgo",
-      "sessions": 8
+      "source": "未知来源",
+      "sessions": 5
     },
     {
       "source": "chatgpt.com",
@@ -52,17 +52,12 @@
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 18
+      "views": 19
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
       "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
-      "views": 16
-    },
-    {
-      "path": "/2026/02/18/ad攻击小记/",
-      "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 14
+      "views": 17
     },
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
@@ -72,6 +67,11 @@
     {
       "path": "/2026/02/04/Vulnyx-Hellman/",
       "title": "Vulnyx-Hellman - Skyarrow's blog",
+      "views": 13
+    },
+    {
+      "path": "/2026/02/18/ad攻击小记/",
+      "title": "ad攻击小记 - Skyarrow's blog",
       "views": 13
     },
     {
@@ -87,11 +87,6 @@
     {
       "path": "/2026/02/01/从零开始的GOAD生活-上/",
       "title": "从零开始的GOAD生活(上) - Skyarrow's blog",
-      "views": 8
-    },
-    {
-      "path": "/links/",
-      "title": "Links - Skyarrow's blog",
       "views": 8
     }
   ]
