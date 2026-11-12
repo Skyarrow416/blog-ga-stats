@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T01:55:05.773Z",
+  "updated": "2026-11-12T02:56:56.202Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 404
+      "sessions": 396
     },
     {
       "source": "bing",
@@ -16,23 +16,23 @@
     },
     {
       "source": "duckduckgo",
-      "sessions": 10
+      "sessions": 11
     },
     {
       "source": "未知来源",
-      "sessions": 7
+      "sessions": 6
     },
     {
       "source": "chatgpt.com",
+      "sessions": 6
+    },
+    {
+      "source": "hyhforever.top",
       "sessions": 5
     },
     {
       "source": "ntp.msn.cn",
       "sessions": 4
-    },
-    {
-      "source": "hyhforever.top",
-      "sessions": 3
     },
     {
       "source": "google",
@@ -52,7 +52,7 @@
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 19
+      "views": 20
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
@@ -65,19 +65,19 @@
       "views": 14
     },
     {
-      "path": "/2026/02/04/Vulnyx-Hellman/",
-      "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 13
-    },
-    {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 13
+      "views": 12
+    },
+    {
+      "path": "/2026/02/04/Vulnyx-Hellman/",
+      "title": "Vulnyx-Hellman - Skyarrow's blog",
+      "views": 11
     },
     {
       "path": "/2026/05/03/Mazesec-Safe/",
       "title": "Mazesec-Safe - Skyarrow's blog",
-      "views": 12
+      "views": 10
     },
     {
       "path": "/2025/11/06/HackMyvm-soc1/",
@@ -85,8 +85,8 @@
       "views": 9
     },
     {
-      "path": "/2026/03/27/HackMyVM-Rsscross/",
-      "title": "HackMyVM-Rsscross - Skyarrow's blog",
+      "path": "/2025/06/12/HackMyVM-Nexus/",
+      "title": "HackMyVM-Nexus - Skyarrow's blog",
       "views": 7
     }
   ]
