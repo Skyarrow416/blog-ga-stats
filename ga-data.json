@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-14T02:25:19.341Z",
+  "updated": "2026-11-15T01:53:01.751Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 393
+      "sessions": 391
     },
     {
       "source": "bing",
-      "sessions": 21
+      "sessions": 20
     },
     {
       "source": "cn.bing.com",
-      "sessions": 16
+      "sessions": 15
     },
     {
       "source": "duckduckgo",
-      "sessions": 12
+      "sessions": 13
     },
     {
       "source": "未知来源",
-      "sessions": 7
+      "sessions": 8
     },
     {
       "source": "chatgpt.com",
@@ -28,7 +28,7 @@
     },
     {
       "source": "hyhforever.top",
-      "sessions": 5
+      "sessions": 4
     },
     {
       "source": "google",
@@ -47,7 +47,7 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 29
+      "views": 30
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
@@ -62,12 +62,12 @@
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
       "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
-      "views": 14
+      "views": 13
     },
     {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 13
+      "views": 12
     },
     {
       "path": "/2026/02/04/Vulnyx-Hellman/",
@@ -75,14 +75,19 @@
       "views": 10
     },
     {
-      "path": "/2025/11/06/HackMyvm-soc1/",
-      "title": "HackMyvm-soc1 - Skyarrow's blog",
+      "path": "/links/",
+      "title": "Links - Skyarrow's blog",
       "views": 9
     },
     {
-      "path": "/links/",
-      "title": "Links - Skyarrow's blog",
+      "path": "/2025/11/06/HackMyvm-soc1/",
+      "title": "HackMyvm-soc1 - Skyarrow's blog",
       "views": 8
+    },
+    {
+      "path": "/2025/06/12/HackMyVM-Nexus/",
+      "title": "HackMyVM-Nexus - Skyarrow's blog",
+      "views": 7
     }
   ]
 }
