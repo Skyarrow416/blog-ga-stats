@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-15T01:53:01.751Z",
+  "updated": "2026-11-16T02:03:07.005Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 391
+      "sessions": 378
     },
     {
       "source": "bing",
-      "sessions": 20
+      "sessions": 22
     },
     {
       "source": "cn.bing.com",
-      "sessions": 15
+      "sessions": 14
     },
     {
       "source": "duckduckgo",
-      "sessions": 13
+      "sessions": 14
     },
     {
       "source": "未知来源",
-      "sessions": 8
+      "sessions": 7
     },
     {
       "source": "chatgpt.com",
@@ -47,17 +47,17 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 30
-    },
-    {
-      "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
-      "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 19
+      "views": 28
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
       "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
-      "views": 17
+      "views": 20
+    },
+    {
+      "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
+      "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
+      "views": 20
     },
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
@@ -67,12 +67,12 @@
     {
       "path": "/2026/02/18/ad攻击小记/",
       "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 12
+      "views": 10
     },
     {
       "path": "/2026/02/04/Vulnyx-Hellman/",
       "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 10
+      "views": 9
     },
     {
       "path": "/links/",
@@ -85,9 +85,14 @@
       "views": 8
     },
     {
-      "path": "/2025/06/12/HackMyVM-Nexus/",
-      "title": "HackMyVM-Nexus - Skyarrow's blog",
-      "views": 7
+      "path": "/2026/03/27/HackMyVM-Rsscross/",
+      "title": "HackMyVM-Rsscross - Skyarrow's blog",
+      "views": 8
+    },
+    {
+      "path": "/2026/05/03/Mazesec-Safe/",
+      "title": "Mazesec-Safe - Skyarrow's blog",
+      "views": 8
     }
   ]
 }
