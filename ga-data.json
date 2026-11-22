@@ -1,34 +1,38 @@
 {
-  "updated": "2026-11-21T03:11:40.389Z",
+  "updated": "2026-11-22T02:12:09.410Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 399
+      "sessions": 402
     },
     {
       "source": "bing",
-      "sessions": 21
+      "sessions": 19
     },
     {
       "source": "duckduckgo",
       "sessions": 15
     },
     {
-      "source": "cn.bing.com",
-      "sessions": 13
+      "source": "未知来源",
+      "sessions": 9
     },
     {
-      "source": "未知来源",
-      "sessions": 10
+      "source": "cn.bing.com",
+      "sessions": 9
+    },
+    {
+      "source": "ntp.msn.cn",
+      "sessions": 8
     },
     {
       "source": "chatgpt.com",
       "sessions": 6
     },
     {
-      "source": "ntp.msn.cn",
-      "sessions": 5
+      "source": "kagi.com",
+      "sessions": 3
     },
     {
       "source": "google",
@@ -37,10 +41,6 @@
     {
       "source": "hyhforever.top",
       "sessions": 2
-    },
-    {
-      "source": "kagi.com",
-      "sessions": 1
     }
   ],
   "posts": [
@@ -52,12 +52,12 @@
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
       "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
-      "views": 20
+      "views": 16
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 18
+      "views": 16
     },
     {
       "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
@@ -65,24 +65,14 @@
       "views": 13
     },
     {
-      "path": "/2026/02/18/ad攻击小记/",
-      "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 10
-    },
-    {
       "path": "/2026/05/03/Mazesec-Safe/",
       "title": "Mazesec-Safe - Skyarrow's blog",
-      "views": 10
+      "views": 12
     },
     {
-      "path": "/2026/02/04/Vulnyx-Hellman/",
-      "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 8
-    },
-    {
-      "path": "/links/",
-      "title": "Links - Skyarrow's blog",
-      "views": 8
+      "path": "/2026/02/18/ad攻击小记/",
+      "title": "ad攻击小记 - Skyarrow's blog",
+      "views": 11
     },
     {
       "path": "/2025/06/12/HackMyVM-Nexus/",
@@ -92,6 +82,16 @@
     {
       "path": "/2025/11/06/HackMyvm-soc1/",
       "title": "HackMyvm-soc1 - Skyarrow's blog",
+      "views": 7
+    },
+    {
+      "path": "/2026/02/04/Vulnyx-Hellman/",
+      "title": "Vulnyx-Hellman - Skyarrow's blog",
+      "views": 7
+    },
+    {
+      "path": "/2026/02/20/春秋云境-Brute4Road/",
+      "title": "春秋云境-Brute4Road - Skyarrow's blog",
       "views": 7
     }
   ]
