@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T02:12:09.410Z",
+  "updated": "2026-11-23T02:43:20.182Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 402
+      "sessions": 412
     },
     {
       "source": "bing",
@@ -12,19 +12,19 @@
     },
     {
       "source": "duckduckgo",
-      "sessions": 15
+      "sessions": 16
     },
     {
       "source": "未知来源",
-      "sessions": 9
+      "sessions": 11
     },
     {
       "source": "cn.bing.com",
-      "sessions": 9
+      "sessions": 7
     },
     {
       "source": "ntp.msn.cn",
-      "sessions": 8
+      "sessions": 7
     },
     {
       "source": "chatgpt.com",
@@ -32,7 +32,7 @@
     },
     {
       "source": "kagi.com",
-      "sessions": 3
+      "sessions": 5
     },
     {
       "source": "google",
@@ -47,16 +47,16 @@
     {
       "path": "/2026/05/21/windows提权-whoami-priv总结/",
       "title": "windows提权-whoami/priv总结 - Skyarrow's blog",
-      "views": 25
-    },
-    {
-      "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
-      "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
-      "views": 16
+      "views": 27
     },
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
+      "views": 18
+    },
+    {
+      "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
+      "title": "OSCP-Challenge 2 - Relia - Skyarrow's blog",
       "views": 16
     },
     {
@@ -75,23 +75,23 @@
       "views": 11
     },
     {
+      "path": "/2025/11/06/HackMyvm-soc1/",
+      "title": "HackMyvm-soc1 - Skyarrow's blog",
+      "views": 8
+    },
+    {
+      "path": "/page/2/",
+      "title": "Skyarrow's blog",
+      "views": 8
+    },
+    {
       "path": "/2025/06/12/HackMyVM-Nexus/",
       "title": "HackMyVM-Nexus - Skyarrow's blog",
       "views": 7
     },
     {
-      "path": "/2025/11/06/HackMyvm-soc1/",
-      "title": "HackMyvm-soc1 - Skyarrow's blog",
-      "views": 7
-    },
-    {
-      "path": "/2026/02/04/Vulnyx-Hellman/",
-      "title": "Vulnyx-Hellman - Skyarrow's blog",
-      "views": 7
-    },
-    {
-      "path": "/2026/02/20/春秋云境-Brute4Road/",
-      "title": "春秋云境-Brute4Road - Skyarrow's blog",
+      "path": "/2025/10/27/Vulnyx-debug复盘/",
+      "title": "Vulnyx-debug复盘 - Skyarrow's blog",
       "views": 7
     }
   ]
