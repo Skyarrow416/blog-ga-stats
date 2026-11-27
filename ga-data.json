@@ -1,14 +1,10 @@
 {
-  "updated": "2026-11-26T04:08:19.812Z",
+  "updated": "2026-11-27T04:13:28.891Z",
   "rangeDays": 30,
   "referrers": [
     {
       "source": "直接访问",
-      "sessions": 410
-    },
-    {
-      "source": "bing",
-      "sessions": 16
+      "sessions": 397
     },
     {
       "source": "duckduckgo",
@@ -16,6 +12,10 @@
     },
     {
       "source": "未知来源",
+      "sessions": 11
+    },
+    {
+      "source": "bing",
       "sessions": 11
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "source": "chatgpt.com",
-      "sessions": 6
+      "sessions": 7
     },
     {
       "source": "kagi.com",
@@ -52,7 +52,7 @@
     {
       "path": "/2026/06/27/OSCP-Challenge-6-OSCP-C/",
       "title": "OSCP-Challenge-6-OSCP-C - Skyarrow's blog",
-      "views": 18
+      "views": 19
     },
     {
       "path": "/2026/04/04/OSCP-Challenge-2-Relia/",
@@ -60,19 +60,19 @@
       "views": 15
     },
     {
-      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
-      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
+      "path": "/2026/05/03/Mazesec-Safe/",
+      "title": "Mazesec-Safe - Skyarrow's blog",
       "views": 12
     },
     {
-      "path": "/2026/05/03/Mazesec-Safe/",
-      "title": "Mazesec-Safe - Skyarrow's blog",
+      "path": "/2026/02/20/春秋云境-Brute4Road/",
+      "title": "春秋云境-Brute4Road - Skyarrow's blog",
       "views": 11
     },
     {
-      "path": "/2026/02/18/ad攻击小记/",
-      "title": "ad攻击小记 - Skyarrow's blog",
-      "views": 10
+      "path": "/2026/06/11/打靶机时遇到的代理端口及应对方法/",
+      "title": "打靶机时遇到的代理端口及应对方法 - Skyarrow's blog",
+      "views": 11
     },
     {
       "path": "/2026/01/10/rbash逃逸相关总结/",
@@ -80,18 +80,18 @@
       "views": 9
     },
     {
-      "path": "/2025/10/27/Vulnyx-debug复盘/",
-      "title": "Vulnyx-debug复盘 - Skyarrow's blog",
-      "views": 8
-    },
-    {
-      "path": "/2026/02/20/春秋云境-Brute4Road/",
-      "title": "春秋云境-Brute4Road - Skyarrow's blog",
-      "views": 8
+      "path": "/2026/02/18/ad攻击小记/",
+      "title": "ad攻击小记 - Skyarrow's blog",
+      "views": 9
     },
     {
       "path": "/2026/03/03/HackTheBox-Overwatch/",
       "title": "HackTheBox-Overwatch - Skyarrow's blog",
+      "views": 8
+    },
+    {
+      "path": "/2026/11/21/从两台靶机入口看php2shell的两条利用链/",
+      "title": "从两台靶机入口看php2shell的两条利用链 - Skyarrow's blog",
       "views": 8
     }
   ]
